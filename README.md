@@ -3,7 +3,7 @@ Built a car price prediction from Kaggle dataset solution using Linear Regressio
 
 **Dataset Source** : https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho/code
 
-#Regression Methods Used:
+# Regression Methods Used:
 
 ## About Lasso Regression: 
 ***Lasso regression*** is a type of linear regression that uses contraction. 
