@@ -10,6 +10,6 @@ Built a car price prediction from Kaggle dataset solution using Linear Regressio
 Shrinkage shrinks the data value to a center point, such as the mean. 
 The Lasso method promotes a simple and sparse model (that is, a model with few parameters).
 
-## About Lasso Regression:
+## About Linear regression:
 ***Linear regression*** attempts to model the relationship between two variables by fitting  linear equations to the observed data.
 the linear regression line has an equation of the form Y = a + bX. Where X is the explanatory variable and Y is the dependent variable.
